@@ -1,0 +1,2 @@
+MODEL_NAME = 'llama3.2'
+TEMPERATURE = 0.7
